@@ -259,7 +259,7 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
         <br>OpenShift
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=istio" width="48" height="48" alt="Istio" />
+        <img src="https://cdn.worldvectorlogo.com/logos/istio.svg" width="48" height="48" alt="Istio" />
         <br>Istio
       </td>
       <td align="center" width="96">
@@ -273,6 +273,10 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
     </tr>
     <tr>
       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
         <br>Neovim
       </td>
@@ -281,7 +285,7 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
         <br>Elasticsearch
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vault" width="48" height="48" alt="Vault" />
+        <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" width="48" height="48" alt="Vault" />
         <br>HashiCorp Vault
       </td>
       <td align="center" width="96">
@@ -289,12 +293,8 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
         <br>Consul
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=octave" width="48" height="48" alt="Octave" />
-        <br>GNU Octave
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="48" height="48" alt="ArgoCD" />
-        <br>ArgoCD
+        <img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" width="48" height="48" alt="Datadog" />
+        <br>Datadog
       </td>
     </tr>
   </table>
