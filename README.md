@@ -58,57 +58,29 @@ My expertise includes cloud infrastructure management, Kubernetes and container 
   </table>
 </div>
 
-## Professional Experience
+## Education
 
-| Position | Company | Period |
-|:---------|:--------|:-------|
-| DevOps Engineer | DNSFilter | 2023–Present |
-| Junior DevOps Engineer | Iteris | 2022 |
-| IT Infrastructure Analyst | Teófilo Otoni City Hall | 2021 |
+<div align="center">
+  <div>
+    <img src="https://img.shields.io/badge/Software_Engineering-PUC_(2024--2028)-4285F4?style=flat-square" height="24">
+    <img src="https://img.shields.io/badge/Systems_Analysis_and_Development-Multivix_(2022--2024)-4285F4?style=flat-square" height="24">
+  </div>
+  <p></p>
+  <div>
+    <img src="https://img.shields.io/badge/LinuxTips_AWS_Expert-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" height="22">
+    <img src="https://img.shields.io/badge/LinuxTips_DevOps_Road-0096D6?style=flat-square&logo=azure-devops&logoColor=white" height="22">
+    <img src="https://img.shields.io/badge/RocketSeat_Ignite-8257E5?style=flat-square&logo=react&logoColor=white" height="22">
+  </div>
+</div>
 
-## Education & Languages
+## Languages
 
-<table>
-  <tr>
-    <th width="50%">Education</th>
-    <th width="50%">Languages</th>
-  </tr>
-  <tr>
-    <td valign="top">
-      <p><strong>Formal Education</strong></p>
-      <ul>
-        <li><strong>Software Engineering</strong><br/>PUC (2024–2028)</li>
-        <li><strong>Systems Analysis and Development</strong><br/>Multivix (2022–2024)</li>
-      </ul>
-      <p><strong>Technical Training</strong></p>
-      <ul>
-        <li>LinuxTips AWS Expert (2021)</li>
-        <li>LinuxTips DevOps Road (2021)</li>
-        <li>RocketSeat Ignite (2022)</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <ul>
-        <li>
-          <strong>English</strong>: Advanced (C1)<br/>
-          <small>TOEFL iBT Certification</small>
-        </li>
-        <li>
-          <strong>Portuguese</strong>: Native<br/>
-          <small>Mother tongue</small>
-        </li>
-        <li>
-          <strong>Spanish</strong>: Intermediate (B1-B2)<br/>
-          <small>Conversational proficiency</small>
-        </li>
-        <li>
-          <strong>Japanese</strong>: Basic (A1)<br/>
-          <small>Elementary proficiency</small>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://img.shields.io/badge/English-Advanced_(C1)-2671E5?style=flat-square" height="24">
+  <img src="https://img.shields.io/badge/Portuguese-Native-2671E5?style=flat-square" height="24">
+  <img src="https://img.shields.io/badge/Spanish-Intermediate_(B1--B2)-2671E5?style=flat-square" height="24">
+  <img src="https://img.shields.io/badge/Japanese-Basic_(A1)-2671E5?style=flat-square" height="24">
+</div>
 
 ## Certifications
 
