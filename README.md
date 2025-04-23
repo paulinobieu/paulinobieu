@@ -1,104 +1,189 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/paulinobieu/paulinobieu/main/assets/banner.gif" alt="Banner Gabriel Paulino" width="100%"/>
+</p>
+
 <h1 align="center">Gabriel Paulino</h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/paulinobieu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/paulinobieu" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:contato@gabrielpaulino.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 <p align="center">
   <strong>Engenheiro DevOps | Fundador da Native Soluções Tecnológicas</strong><br/>
   <em>Cloud · DevSecOps · Automação · IaC · Containers · SRE</em>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=paulinobieu&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="Profile views"/>
+</p>
+
 ---
 
-## 🧾 Sobre
+## 👨‍💻 Sobre
 
 Sou Gabriel Paulino (@paulinobieu), engenheiro DevOps com forte atuação em automação de infraestrutura, pipelines de CI/CD, segurança, containers e soluções em nuvem. Fundador da **Native Soluções Tecnológicas LTDA**, atuo com tecnologias modernas para entregar software escalável, seguro e resiliente.
+
+Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre buscando implementar as melhores práticas de DevSecOps, arquitetura em nuvem e observabilidade para entregar valor de forma contínua e sustentável.
+
+---
+
+## 🛠️ Stack Técnica
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
+      <br>Terraform
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
+      <br>Ansible
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- **Análise e Desenvolvimento de Sistemas** – Multivix (2022–2024)  
 - **Engenharia de Software** – PUC (2024–2028)
+- **Análise e Desenvolvimento de Sistemas** – Multivix (2022–2024)
 
 ---
 
 ## 🏅 Certificações
 
-- AWS Cloud Practitioner (2021)  
-- AWS Solutions Architect – Associate (2022)  
-- Certified Kubernetes Administrator – CKA (2022)  
-- LPIC-2 (2022)  
-- AWS DevOps Engineer – Professional (2023)  
-- Google Cloud DevOps Engineer (2024)  
-- EXIN DevSecOps Manager (2024)  
-- TOEFL – Nível C1 (2023)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer-Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-DevOps%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXIN-DevSecOps%20Manager-1A73E8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LPIC--2-Certified-C004E0?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TOEFL-N%C3%ADvel%20C1-00457C?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 💼 Experiência Profissional
 
-- **Engenheiro DevOps** – DNSFilter (2023–atual)  
-- **Engenheiro DevOps Júnior** – Iteris (2022)  
-- **Analista de Infraestrutura de TI** – Prefeitura de Teófilo Otoni (2021)
+<div align="center">
+  <table>
+    <tr>
+      <td><b>Cargo</b></td>
+      <td><b>Empresa</b></td>
+      <td><b>Período</b></td>
+    </tr>
+    <tr>
+      <td>Engenheiro DevOps</td>
+      <td>DNSFilter</td>
+      <td>2023–atual</td>
+    </tr>
+    <tr>
+      <td>Engenheiro DevOps Júnior</td>
+      <td>Iteris</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <td>Analista de Infraestrutura de TI</td>
+      <td>Prefeitura de Teófilo Otoni</td>
+      <td>2021</td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 Projetos Destacados
+
+<div align="center">
+  <a href="https://github.com/paulinobieu/projeto-exemplo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulinobieu&repo=projeto-exemplo&theme=dark" alt="Projeto Exemplo" />
+  </a>
+  <a href="https://github.com/paulinobieu/outro-projeto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paulinobieu&repo=outro-projeto&theme=dark" alt="Outro Projeto" />
+  </a>
+</div>
+
+> Substitua os repos acima pelos seus projetos reais
 
 ---
 
 ## 📚 Cursos & Trilhas
 
-- Programador BR (2020)  
-- AWS Expert, DevOps Road, Python – LinuxTips (2021)  
 - Rocketseat Ignite (2022)
+- AWS Expert, DevOps Road, Python – LinuxTips (2021)
+- Programador BR (2020)
 
 ---
 
-## 🧩 Tecnologias & Ferramentas
-
-### 💻 Front-end
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
-
-### 🔧 Back-end
-
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)](https://www.lua.org/)
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://www.php.net/)
-
-### 🗄️ Banco de Dados
-
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)](https://redis.io/)
-
-### ☁️ Cloud & DevOps
-
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
-[![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white)](https://www.ansible.com/)
-[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
-
-### 🛠️ Ferramentas & Workflow
-
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://figma.com/)
-
----
-
-## 📈 GitHub Insights
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulinobieu&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinobieu&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulinobieu&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulinobieu&theme=react&hide_border=true" width="48%" alt="GitHub Streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinobieu&theme=react&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulinobieu&theme=react" width="100%" alt="Activity Graph"/>
+</p>
+
+---
+
+## 📬 Entre em Contato
+
+- 📧 Email: [contato@gabrielpaulino.com](mailto:contato@gabrielpaulino.com)
+- 💼 LinkedIn: [linkedin.com/in/paulinobieu](https://linkedin.com/in/paulinobieu)
+- 🌐 Website: [gabrielpaulino.com](https://gabrielpaulino.com)
+
+<div align="center">
+  <p>⭐️ From <a href="https://github.com/paulinobieu">@paulinobieu</a></p>
+</div>
