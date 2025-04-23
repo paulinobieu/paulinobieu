@@ -36,7 +36,7 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
 
 ## 🛠️ Stack Técnica
 
-### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="24"> Frontend
+### 🌐 Frontend
 <div align="center">
   <table>
     <tr>
@@ -94,7 +94,7 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
   </table>
 </div>
 
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="24"> Backend
+### 🧠 Backend
 <div align="center">
   <table>
     <tr>
@@ -152,7 +152,7 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
   </table>
 </div>
 
-### <img src="https://media.giphy.com/media/c5kK8y6PaxKx5kIeQN/giphy.gif" width="24"> Banco de Dados
+### 🗄️ Banco de Dados
 <div align="center">
   <table>
     <tr>
@@ -177,14 +177,14 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
         <br>DynamoDB
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-        <br>SQLite
+        <img src="https://skillicons.dev/icons?i=cassandra" width="48" height="48" alt="Cassandra" />
+        <br>Cassandra
       </td>
     </tr>
   </table>
 </div>
 
-### <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="24"> Cloud & DevOps
+### ☁️ Cloud & DevOps
 <div align="center">
   <table>
     <tr>
@@ -242,7 +242,7 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
   </table>
 </div>
 
-### <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="24"> Ferramentas & Ambientes
+### 🛠️ Ferramentas & Ambientes Avançados
 <div align="center">
   <table>
     <tr>
@@ -255,12 +255,12 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
         <br>Git
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-        <br>GitHub
+        <img src="https://skillicons.dev/icons?i=openshift" width="48" height="48" alt="OpenShift" />
+        <br>OpenShift
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-        <br>GitLab
+        <img src="https://skillicons.dev/icons?i=istio" width="48" height="48" alt="Istio" />
+        <br>Istio
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
@@ -273,28 +273,28 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
+        <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
+        <br>Neovim
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
-        <br>Vim
+        <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
+        <br>Elasticsearch
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-        <br>Postman
+        <img src="https://skillicons.dev/icons?i=vault" width="48" height="48" alt="Vault" />
+        <br>HashiCorp Vault
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=regex" width="48" height="48" alt="Regex" />
-        <br>Regex
+        <img src="https://cdn.worldvectorlogo.com/logos/consul-enterprise.svg" width="48" height="48" alt="Consul" />
+        <br>Consul
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
-        <br>Vercel
+        <img src="https://skillicons.dev/icons?i=octave" width="48" height="48" alt="Octave" />
+        <br>GNU Octave
       </td>
       <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-        <br>Netlify
+        <img src="https://raw.githubusercontent.com/cncf/artwork/main/projects/argo/icon/color/argo-icon-color.svg" width="48" height="48" alt="ArgoCD" />
+        <br>ArgoCD
       </td>
     </tr>
   </table>
