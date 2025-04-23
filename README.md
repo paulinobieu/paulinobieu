@@ -36,7 +36,7 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
 
 ## 🛠️ Stack Técnica
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="24"> Frontend
+### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="24"> Frontend
 <div align="center">
   <table>
     <tr>
@@ -94,7 +94,7 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
   </table>
 </div>
 
-### <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="24"> Backend
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="24"> Backend
 <div align="center">
   <table>
     <tr>
@@ -152,7 +152,7 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
   </table>
 </div>
 
-### <img src="https://media.giphy.com/media/ccRdPf8zWkivm/giphy.gif" width="24"> Banco de Dados
+### <img src="https://media.giphy.com/media/c5kK8y6PaxKx5kIeQN/giphy.gif" width="24"> Banco de Dados
 <div align="center">
   <table>
     <tr>
@@ -184,7 +184,7 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
   </table>
 </div>
 
-### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="24"> Cloud & DevOps
+### <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="24"> Cloud & DevOps
 <div align="center">
   <table>
     <tr>
@@ -242,7 +242,7 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
   </table>
 </div>
 
-### <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="24"> Ferramentas & Ambientes
+### <img src="https://media.giphy.com/media/hS42TuYYnANLFR9IRQ/giphy.gif" width="24"> Ferramentas & Ambientes
 <div align="center">
   <table>
     <tr>
@@ -366,16 +366,10 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulinobieu&show_icons=true&theme=react&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulinobieu&theme=react&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paulinobieu&show_icons=true&theme=react&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulinobieu&theme=react&hide_border=true" width="49%" alt="GitHub Streak"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinobieu&theme=react&hide_border=true&layout=compact&langs_count=8" width="58%" alt="Top Languages"/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=paulinobieu&theme=nord&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophy"/>
-  
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulinobieu&theme=react" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinobieu&theme=react&hide_border=true&layout=compact&langs_count=6" width="58%" alt="Top Languages"/>
 </div>
 
 <div align="center">
