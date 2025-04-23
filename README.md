@@ -8,6 +8,7 @@
   <a href="https://linkedin.com/in/paulinobieu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/paulinobieu" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:contato@gabrielpaulino.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://gabrielpaulino.com" target="_blank"><img src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -84,6 +85,84 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
       <br>PostgreSQL
     </td>
   </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+      <br>Grafana
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+      <br>GCP
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br>Bash
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
+      <br>Vim
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Golang" />
+      <br>Golang
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS CLI
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker Compose" />
+      <br>Docker Compose
+    </td>
+  </tr>
 </table>
 
 ---
@@ -153,14 +232,6 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
 
 ---
 
-## 📚 Cursos & Trilhas
-
-- Rocketseat Ignite (2022)
-- AWS Expert, DevOps Road, Python – LinuxTips (2021)
-- Programador BR (2020)
-
----
-
 ## 📊 GitHub Insights
 
 <p align="center">
@@ -175,14 +246,6 @@ Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre busca
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=paulinobieu&theme=react" width="100%" alt="Activity Graph"/>
 </p>
-
----
-
-## 📬 Entre em Contato
-
-- 📧 Email: [contato@gabrielpaulino.com](mailto:contato@gabrielpaulino.com)
-- 💼 LinkedIn: [linkedin.com/in/paulinobieu](https://linkedin.com/in/paulinobieu)
-- 🌐 Website: [gabrielpaulino.com](https://gabrielpaulino.com)
 
 <div align="center">
   <p>⭐️ From <a href="https://github.com/paulinobieu">@paulinobieu</a></p>
