@@ -2,10 +2,10 @@
   <h1>Gabriel Paulino</h1>
   
   <p>
-    <a href="https://linkedin.com/in/paulinobieu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22"></a>
+    <a href="https://www.linkedin.com/in/gabriel-paulino-8b54a522b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="22"></a>
     <a href="https://github.com/paulinobieu" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22"></a>
-    <a href="mailto:contato@gabrielpaulino.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="22"></a>
-    <a href="https://gabrielpaulino.com" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" height="22"></a>
+    <a href="mailto:gabrielpaulino@native.dev.br"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="22"></a>
+    <a href="https://paulino.native.dev.br" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white" height="22"></a>
   </p>
   
   <p>
