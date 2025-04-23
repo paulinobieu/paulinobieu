@@ -11,383 +11,369 @@
   </p>
   
   <p>
-    <strong>Engenheiro DevOps | Fundador da Native Soluções Tecnológicas</strong><br/>
-    <em>Cloud · DevSecOps · Automação · IaC · Containers · SRE</em>
+    <strong>DevOps Engineer | Founder at Native Soluções Tecnológicas</strong><br/>
+    <em>Cloud · DevSecOps · Infrastructure Automation · IaC · Containers · SRE</em>
   </p>
   
-  <img src="https://komarev.com/ghpvc/?username=paulinobieu&color=blue&style=flat-square&label=Visualizações+do+perfil" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=paulinobieu&color=blue&style=flat-square&label=Profile+Views" alt="Profile views"/>
 </div>
 
 <br/>
 
-<details>
-  <summary>📑 Conteúdo</summary>
-  <ul>
-    <li><a href="#sobre">Sobre</a></li>
-    <li><a href="#stack-técnica">Stack Técnica</a></li>
-    <li><a href="#formação-acadêmica">Formação Acadêmica</a></li>
-    <li><a href="#certificações">Certificações</a></li>
-    <li><a href="#experiência-profissional">Experiência Profissional</a></li>
-    <li><a href="#github-insights">GitHub Insights</a></li>
-  </ul>
+<details open>
+  <summary><b>📑 Table of Contents</b></summary>
+  <ol>
+    <li><a href="#about-me">About Me</a></li>
+    <li><a href="#expertise">Expertise</a></li>
+    <li><a href="#tech-stack">Tech Stack</a></li>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#certifications">Certifications</a></li>
+    <li><a href="#experience">Professional Experience</a></li>
+    <li><a href="#stats">GitHub Stats</a></li>
+    <li><a href="#contact">Contact Me</a></li>
+  </ol>
 </details>
 
 <br/>
 
-<img align="right" height="270px" alt="DevOps" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
+<section id="about-me">
 
-## 👨‍💻 Sobre
+## 👨‍💻 About Me
 
-Sou Gabriel Paulino (@paulinobieu), engenheiro DevOps com forte atuação em automação de infraestrutura, pipelines de CI/CD, segurança, containers e soluções em nuvem. Fundador da **Native Soluções Tecnológicas LTDA**, atuo com tecnologias modernas para entregar software escalável, seguro e resiliente.
+<img align="right" height="270px" alt="DevOps Animation" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
-Apaixonado por criar ambientes de desenvolvimento eficientes, estou sempre buscando implementar as melhores práticas de DevSecOps, arquitetura em nuvem e observabilidade para entregar valor de forma contínua e sustentável.
+I'm Gabriel Paulino (@paulinobieu), a DevOps Engineer specialized in infrastructure automation, CI/CD pipelines, security, containers, and cloud solutions. As the founder of **Native Soluções Tecnológicas LTDA**, I work with modern technologies to deliver scalable, secure, and resilient software.
+
+Passionate about creating efficient development environments, I'm constantly implementing best practices in DevSecOps, cloud architecture, and observability to deliver continuous and sustainable value.
+
+My expertise covers:
+- Cloud Infrastructure Management (AWS, GCP, Azure)
+- Infrastructure as Code with Terraform
+- Kubernetes and Container Orchestration
+- CI/CD Pipeline Optimization
+- Microservices Architecture
+- Observability & Monitoring Solutions
+
+Let's connect and solve interesting challenges together!
+
+</section>
 
 <br/>
 
+<section id="expertise">
+
+## 🚀 Expertise
+
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Expertise&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=3&theme=github_dark&width=900&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=terraform%2Cterraform%2C623CE4%3Bkubernetes%2Ckubernetes%2C326CE5%3Baws%2Caws%2CFF9900%3Bdocker%2Cdocker%2C2496ED%3Bgitlab%2Cgitlab%2CFC6D26%3B&line2=python%2Cpython%2C3776AB%3Blua%2Clua%2C2C2D72%3Breact%2Creact%2C61DAFB%3Bjavascript%2Cjavascript%2CF7DF1E%3Btypescript%2Ctypescript%2C3178C6%3B&line3=linux%2Clinux%2CFCC624%3Bgithub%2Cgithub%2C181717%3Bgit%2Cgit%2CF05032%3Bpostgresql%2Cpostgresql%2C4169E1%3Bmongodb%2Cmongodb%2C47A248%3B" alt="Tech Expertise" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Core%20Technologies&align=center&titleAlign=center&fontSize=20&lineHeight=10&lineCount=2&theme=github_dark&width=850&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=aws%2CAWS%2CFF9900%3Bkubernetes%2CKubernetes%2C326CE5%3Bterraform%2CTerraform%2C623CE4%3Bdocker%2CDocker%2C2496ED%3B&line2=github%2CGitHub%2C181717%3Bgitlab%2CGitLab%2CFC6D26%3Blinux%2CLinux%2CFCC624%3Bansible%2CAnsible%2CEE0000%3B" alt="Core Technologies" />
 </div>
 
-## 🛠️ Stack Técnica
+</section>
 
-### 🌐 Frontend
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-        <br>HTML
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        <br>Vue
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-        <br>Tailwind
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-        <br>Bootstrap
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-        <br>Sass
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-        <br>Figma
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-        <br>Vite
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
-        <br>Webpack
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
-### 🧠 Backend
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Golang" />
-        <br>Golang
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" />
-        <br>Lua
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-        <br>PHP
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-        <br>Rust
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-        <br>Express
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
-        <br>NestJS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-        <br>FastAPI
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-        <br>Django
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        <br>Laravel
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-        <br>Flask
-      </td>
-    </tr>
-  </table>
-</div>
+<section id="tech-stack">
 
-### 🗄️ Banco de Dados
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-        <br>Redis
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dynamodb" width="48" height="48" alt="DynamoDB" />
-        <br>DynamoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cassandra" width="48" height="48" alt="Cassandra" />
-        <br>Cassandra
-      </td>
-    </tr>
-  </table>
-</div>
+## 🛠️ Tech Stack
 
-### ☁️ Cloud & DevOps
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
-        <br>GCP
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
-        <br>Azure
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-        <br>Kubernetes
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" />
-        <br>Terraform
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=ansible" width="48" height="48" alt="Ansible" />
-        <br>Ansible
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-        <br>Jenkins
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" />
-        <br>GitHub Actions
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
-        <br>Prometheus
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
-        <br>Grafana
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-        <br>Nginx
-      </td>
-    </tr>
-  </table>
-</div>
+<details open>
+  <summary><b>☁️ Cloud & DevOps</b></summary>
+  <br/>
+  <div align="center">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+    </a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="65" height="65" />
+    </a>
+    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="65" height="65" />
+    </a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+    </a>
+    <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+    </a>
+    <a href="https://www.terraform.io" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="65" height="65" />
+    </a>
+    <a href="https://www.ansible.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" width="65" height="65" />
+    </a>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="65" height="65" />
+    </a>
+    <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="65" height="65" />
+    </a>
+    <a href="https://prometheus.io" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" width="65" height="65" />
+    </a>
+    <a href="https://grafana.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="65" height="65" />
+    </a>
+  </div>
+</details>
 
-### 🛠️ Ferramentas & Ambientes Avançados
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=openshift" width="48" height="48" alt="OpenShift" />
-        <br>OpenShift
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/istio.svg" width="48" height="48" alt="Istio" />
-        <br>Istio
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-        <br>Bash
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
-        <br>PowerShell
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
-        <br>Neovim
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
-        <br>Elasticsearch
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" width="48" height="48" alt="Vault" />
-        <br>HashiCorp Vault
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/consul-enterprise.svg" width="48" height="48" alt="Consul" />
-        <br>Consul
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" width="48" height="48" alt="Datadog" />
-        <br>Datadog
-      </td>
-    </tr>
-  </table>
-</div>
+<details>
+  <summary><b>🧠 Backend Development</b></summary>
+  <br/>
+  <div align="center">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+    </a>
+    <a href="https://python.org" target="_blank" rel="noreferrer">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+    </a>
+    <a href="https://golang.org" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=go" alt="Golang" width="65" height="65" />
+    </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="65" height="65" />
+    </a>
+    <a href="https://nestjs.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" width="65" height="65" />
+    </a>
+    <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
+    </a>
+    <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=django" alt="Django" width="65" height="65" />
+    </a>
+  </div>
+</details>
 
-## 🎓 Formação Acadêmica
+<details>
+  <summary><b>🗄️ Databases</b></summary>
+  <br/>
+  <div align="center">
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="65" height="65" />
+    </a>
+    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="65" height="65" />
+    </a>
+    <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="65" height="65" />
+    </a>
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="65" height="65" />
+    </a>
+    <a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=dynamodb" alt="DynamoDB" width="65" height="65" />
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><b>🌐 Frontend Development</b></summary>
+  <br/>
+  <div align="center">
+    <a href="https://reactjs.org" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="65" height="65" />
+    </a>
+    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+    </a>
+    <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="65" height="65" />
+    </a>
+    <a href="https://vuejs.org" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" width="65" height="65" />
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><b>🛠️ Advanced Tools & Environments</b></summary>
+  <br/>
+  <div align="center">
+    <a href="https://linux.org" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="65" height="65" />
+    </a>
+    <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="65" height="65" />
+    </a>
+    <a href="https://www.openshift.com" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=openshift" alt="OpenShift" width="65" height="65" />
+    </a>
+    <a href="https://istio.io" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/istio.svg" alt="Istio" width="65" height="65" />
+    </a>
+    <a href="https://www.vaultproject.io" target="_blank" rel="noreferrer">
+      <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="HashiCorp Vault" width="65" height="65" />
+    </a>
+    <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" width="65" height="65" />
+    </a>
+    <a href="https://www.datadoghq.com" target="_blank" rel="noreferrer">
+      <img src="https://cdn.worldvectorlogo.com/logos/datadog.svg" alt="Datadog" width="65" height="65" />
+    </a>
+  </div>
+</details>
+
+</section>
+
+<br/>
+
+<section id="education">
+
+## 🎓 Education
 
 <div align="center">
   <table>
     <tr>
-      <td><b>Curso</b></td>
-      <td><b>Instituição</b></td>
-      <td><b>Período</b></td>
+      <th align="center">Degree</th>
+      <th align="center">Institution</th>
+      <th align="center">Period</th>
     </tr>
     <tr>
-      <td>Engenharia de Software</td>
+      <td>Software Engineering</td>
       <td>PUC</td>
       <td>2024–2028</td>
     </tr>
     <tr>
-      <td>Análise e Desenvolvimento de Sistemas</td>
+      <td>Systems Analysis and Development</td>
       <td>Multivix</td>
       <td>2022–2024</td>
     </tr>
   </table>
 </div>
 
-## 🏅 Certificações
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer-Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Cloud-DevOps%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EXIN-DevSecOps%20Manager-1A73E8?style=for-the-badge"/>
-  <br/>
-  <img src="https://img.shields.io/badge/LPIC--2-Certified-C004E0?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TOEFL-N%C3%ADvel%20C1-00457C?style=for-the-badge"/>
-</div>
-
-## 💼 Experiência Profissional
+### 🌐 Languages
 
 <div align="center">
   <table>
     <tr>
-      <td><b>Cargo</b></td>
-      <td><b>Empresa</b></td>
-      <td><b>Período</b></td>
+      <td><strong>English</strong></td>
+      <td>Advanced (C1) — TOEFL Certification</td>
     </tr>
     <tr>
-      <td>Engenheiro DevOps</td>
+      <td><strong>Portuguese</strong></td>
+      <td>Native</td>
+    </tr>
+    <tr>
+      <td><strong>Spanish</strong></td>
+      <td>Intermediate (B1-B2)</td>
+    </tr>
+    <tr>
+      <td><strong>Japanese</strong></td>
+      <td>Basic (A1)</td>
+    </tr>
+  </table>
+</div>
+
+</section>
+
+<br/>
+
+<section id="certifications">
+
+## 🏅 Certifications
+
+<div align="center">
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  </a>
+  <a href="https://aws.amazon.com/certification/certified-devops-engineer-professional/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20DevOps%20Engineer-Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  </a>
+  <a href="https://cloud.google.com/certification/cloud-devops-engineer" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud-DevOps%20Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  </a>
+  <br/>
+  <a href="https://www.cncf.io/certification/cka/" target="_blank">
+    <img src="https://img.shields.io/badge/CKA-Certified%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  </a>
+  <a href="https://www.exin.com/certifications/devsecops-certification/" target="_blank">
+    <img src="https://img.shields.io/badge/EXIN-DevSecOps%20Manager-1A73E8?style=for-the-badge"/>
+  </a>
+  <br/>
+  <a href="https://www.lpi.org/our-certifications/lpic-2-overview" target="_blank">
+    <img src="https://img.shields.io/badge/LPIC--2-Certified-C004E0?style=for-the-badge&logo=linux&logoColor=white"/>
+  </a>
+</div>
+
+</section>
+
+<br/>
+
+<section id="experience">
+
+## 💼 Professional Experience
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">Position</th>
+      <th align="center">Company</th>
+      <th align="center">Period</th>
+    </tr>
+    <tr>
+      <td>DevOps Engineer</td>
       <td>DNSFilter</td>
-      <td>2023–atual</td>
+      <td>2023–Present</td>
     </tr>
     <tr>
-      <td>Engenheiro DevOps Júnior</td>
+      <td>Junior DevOps Engineer</td>
       <td>Iteris</td>
       <td>2022</td>
     </tr>
     <tr>
-      <td>Analista de Infraestrutura de TI</td>
-      <td>Prefeitura de Teófilo Otoni</td>
+      <td>IT Infrastructure Analyst</td>
+      <td>Teófilo Otoni City Hall</td>
       <td>2021</td>
     </tr>
   </table>
 </div>
 
-## 📊 GitHub Insights
+</section>
+
+<br/>
+
+<section id="stats">
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulinobieu&show_icons=true&theme=react&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulinobieu&theme=react&hide_border=true" width="49%" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paulinobieu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paulinobieu&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinobieu&theme=react&hide_border=true&layout=compact&langs_count=6" width="58%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulinobieu&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="58%" alt="Top Languages"/>
 </div>
 
+</section>
+
+<br/>
+
+<section id="contact">
+
+## 📫 Contact Me
+
 <div align="center">
-  <br/>
+  <a href="https://linkedin.com/in/paulinobieu" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/paulinobieu" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:contato@gabrielpaulino.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://gabrielpaulino.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Visit-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/>
+  </a>
+</div>
+
+</section>
+
+<br/>
+
+<div align="center">
   <p>⭐️ From <a href="https://github.com/paulinobieu">@paulinobieu</a></p>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
