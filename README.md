@@ -20,6 +20,20 @@
 
 <br/>
 
+<details>
+  <summary>📑 Conteúdo</summary>
+  <ul>
+    <li><a href="#sobre">Sobre</a></li>
+    <li><a href="#stack-técnica">Stack Técnica</a></li>
+    <li><a href="#formação-acadêmica">Formação Acadêmica</a></li>
+    <li><a href="#certificações">Certificações</a></li>
+    <li><a href="#experiência-profissional">Experiência Profissional</a></li>
+    <li><a href="#github-insights">GitHub Insights</a></li>
+  </ul>
+</details>
+
+<br/>
+
 <img align="right" height="270px" alt="DevOps" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 ## 👨‍💻 Sobre
