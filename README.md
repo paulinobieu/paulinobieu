@@ -23,14 +23,39 @@ My expertise includes cloud infrastructure management, Kubernetes and container 
 ## Technologies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="24">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="24">
+  <table>
+    <tr>
+      <td align="center"><strong>Cloud & Infrastructure</strong></td>
+      <td align="center"><strong>DevOps Tools</strong></td>
+      <td align="center"><strong>Development</strong></td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="22">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="22">
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="22">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" height="22">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="22">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Professional Experience
@@ -43,15 +68,47 @@ My expertise includes cloud infrastructure management, Kubernetes and container 
 
 ## Education & Languages
 
-**Education**
-- Software Engineering, PUC (2024–2028)
-- Systems Analysis and Development, Multivix (2022–2024)
-
-**Languages**
-- English: Advanced (C1) — TOEFL Certification
-- Portuguese: Native
-- Spanish: Intermediate (B1-B2)
-- Japanese: Basic (A1)
+<table>
+  <tr>
+    <th width="50%">Education</th>
+    <th width="50%">Languages</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <p><strong>Formal Education</strong></p>
+      <ul>
+        <li><strong>Software Engineering</strong><br/>PUC (2024–2028)</li>
+        <li><strong>Systems Analysis and Development</strong><br/>Multivix (2022–2024)</li>
+      </ul>
+      <p><strong>Technical Training</strong></p>
+      <ul>
+        <li>LinuxTips AWS Expert (2021)</li>
+        <li>LinuxTips DevOps Road (2021)</li>
+        <li>RocketSeat Ignite (2022)</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <ul>
+        <li>
+          <strong>English</strong>: Advanced (C1)<br/>
+          <small>TOEFL iBT Certification</small>
+        </li>
+        <li>
+          <strong>Portuguese</strong>: Native<br/>
+          <small>Mother tongue</small>
+        </li>
+        <li>
+          <strong>Spanish</strong>: Intermediate (B1-B2)<br/>
+          <small>Conversational proficiency</small>
+        </li>
+        <li>
+          <strong>Japanese</strong>: Basic (A1)<br/>
+          <small>Elementary proficiency</small>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Certifications
 
